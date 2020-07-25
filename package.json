@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "parcel index.html",
     "build": "parcel build index.html",
-    "build:github": "parcel build index.html --public-url ./example-float-word --out-dir ./docs"
+    "build:github": "parcel build index.html --public-url 'https://krist7599555.github.io/example-float-word' --out-dir ./docs"
   },
   "dependencies": {
     "@types/jquery": "^3.5.0",
